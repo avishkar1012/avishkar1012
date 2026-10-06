@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Avishkar 👋
 
-<!--
-**avishkar1012/avishkar1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second Year B.Tech CSE Student  
+💻 Learning Java, DSA & Backend Development  
+🚀 Building projects and improving my coding skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github,vscode,mysql)](https://skillicons.dev)
+
+## 📚 Currently Learning
+
+- ☕ Java
+- 🧠 Data Structures & Algorithms
+- ⚙️ Backend Development
+- 🌐 JavaScript
+
+## 🚀 Goals
+
+- Become strong in DSA
+- Build real-world projects
+- Learn backend development
+- Contribute to open source
+
+## 📫 Connect With Me
+
+<!-- Add your social links here -->
+
+---
+
+⭐️ From Avishkar
